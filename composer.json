@@ -1,0 +1,14 @@
+{
+    "name": "wangdeyi/testcomposer",
+    "description": "测试制作composer",
+    "type": "library",
+    "license": "Apache License 2.0",
+    "authors": [
+        {
+            "name": "deyi wang",
+            "email": "337017301@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
